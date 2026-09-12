@@ -42,6 +42,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
+- [Where's My Water AZ](https://wheresmywater.org) – Free directory for Arizona residents to find water haulers, check their provider's EPA violation history, and see ADWR regulatory data for their address.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
 
 ## Open Government & Transparency
