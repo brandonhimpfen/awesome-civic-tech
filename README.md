@@ -50,6 +50,8 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open States](https://openstates.org/) – Track state-level legislation and lawmakers in the U.S.
 - [Sunlight Foundation (archived)](https://sunlightfoundation.com/) – Resources for increasing government transparency and accountability.
 - [TheyWorkForYou](https://www.theyworkforyou.com/) – Tracks and explains what UK MPs do in Parliament.
+- [US Federal Government Directory](https://www.pelicanorange.com) – Free directory of all 539 members of the 119th Congress plus executive and judicial leadership, with voting records, social follower counts, net worth, FEC fundraising and top donors, stock trades, and 2026 race ratings.
+
 
 ## Digital Democracy & Participation
 
