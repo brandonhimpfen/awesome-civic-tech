@@ -59,6 +59,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Data Sources & APIs
 
+- [AICD API](https://aicdapi.com/?utm_source=awesome_civic_tech&utm_medium=directory&utm_campaign=free_listings) – Structured Texas civic records (DFW meetings, agenda items, documents) with source links for builders.
 - [Data.gov](https://data.gov/) – The U.S. government’s open data portal with datasets across sectors.
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
