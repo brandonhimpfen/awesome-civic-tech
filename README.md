@@ -46,6 +46,8 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Open Government & Transparency
 
+- [City Council Meeting Transcripts](https://apify.com/catalyst-labs/city-council-meeting-transcripts) – Turns recorded council meetings into searchable, timestamped transcripts.
+- [Local Government Decision Lookup](https://apify.com/catalyst-labs/local-government-decision-lookup) – Ask whether a city council approved something; get the vote, the no voters and a link to the source minutes, or "no record" instead of a guess.
 - [OpenGov Foundation](https://www.opengovfoundation.org/) – Builds tools to help governments become more open, responsive, and accountable.
 - [Open States](https://openstates.org/) – Track state-level legislation and lawmakers in the U.S.
 - [Sunlight Foundation (archived)](https://sunlightfoundation.com/) – Resources for increasing government transparency and accountability.
