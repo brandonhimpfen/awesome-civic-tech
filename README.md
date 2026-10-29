@@ -43,6 +43,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
+- [Cheltenham Open Data](https://cheltenham-od.uk/) – Brings a UK town's public data, from crime and flood warnings to planning and bin days, into one free, tracker-free site.
 
 ## Open Government & Transparency
 
