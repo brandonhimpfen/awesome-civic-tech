@@ -39,6 +39,8 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
+- [Headway](https://headway.shivrajsinh.in) – Public transit accessibility and timetable schedule platform providing stop-level departure boards and headway frequencies from open GTFS data.
+- [Stopwatch](https://transit.shivrajsinh.in) – Phone-friendly, open transit timetable directory covering 120+ public transit networks in 6 countries to improve public mobility access.
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
